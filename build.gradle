@@ -191,10 +191,10 @@ uploadArchives {
                 name 'gatk-fermilite-jni'
                 packaging 'jar'
                 description 'java Bindings for the fermi-lite assembler'
-                url 'http://github.com/broadinstitute/gatk-fermlite-jni'
+                url 'http://github.com/broadinstitute/gatk-fermilite-jni'
 
                 scm {
-                    url 'scm:git@github.com:broadinstitute/gatk-fermlite-jni.git'
+                    url 'scm:git@github.com:broadinstitute/gatk-fermilite-jni.git'
                     connection 'scm:git@github.com:broadinstitute/gatk-fermilite-jni.git'
                     developerConnection 'scm:git@github.com:broadinstitute/gatk-fermilite-jni.git'
                 }
